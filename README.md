@@ -1,7 +1,5 @@
 # Chaos Organizer.
 
-### Дипломный проект по курсу "Продвинутый Javascript в браузере" (Нетология).
-
 Ссылка на опубликованный [проект](https://queenarizona.github.io/Chaos-Organizer/).
 
 Cсылка на [сервер](https://github.com/QueenArizona/Chaos-Organizer-backend).
